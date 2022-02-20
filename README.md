@@ -1,4 +1,6 @@
-# PythonCA-1
+# SmartBot
+SmartBot is a Machine Learning based chatbot desktop application, which works on voice command.
+It is built using Python Tkinter.
 
 _______________________________________REQUIREMENTS______________________________________________________
 python,
